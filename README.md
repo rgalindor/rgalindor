@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is a repo to share content about me.
+
+You can access to my personal [Github Page](https://rgalindor.github.io) to a better UX.
+
 <!--
 **rgalindor/rgalindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
