@@ -17,3 +17,5 @@ I want to contribute to global projects on bioinformatics, looking for interesti
 Let's talk about science, data, genomics and complex systems.
 
 [rgalindo.biocomputo@gmail.com](mailto:rgalindo.biocomputo@gmail.com)
+
+Take a look of my [projects](./hub)!
