@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: rgalindor
-description: [Sitio central de recursos]
+description: [Resources hub site]
 markdown: kramdown
 plugins:
   - jemoji
