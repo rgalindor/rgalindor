@@ -4,6 +4,8 @@ _Senior Bioinformatician and Data Scientist_
 
 I studied in a Mexican [undergraduate program for **genomic sciences**](https://www.lcg.unam.mx) and in a [master's program in biochemical sciences](http://www.mdcbq.posgrado.unam.mx) (but more oriented to **computational biology**). I have focused into inquire how certain properties in a network are related to dynamical features in different systems like transcriptional regulatory network on yeast or simulations of boolean networks of B cell differentiation models.
 
+![Workshop on sinthetic biology](./images/FB_bs2010_ed.png)
+
 Then I suddenly became a **bioinformatician**, at the beginning building procedures to detect **GMOs** with **NGS** data, but later I got deeper in human genomics of genetic associated diseases. I have automated processes for high-quality **variant calling** and contributed to the creation of web applications for direct customer operation in this type of analysis. I even led a developing team for genetic reporting and continuously implemented **ML on classification** projects using variant population data. 
 
 I am a huge fan of **Futbol** (yeah in spanish for soccer ⚽), I really like to watch every 4 years the FIFA world cup!
