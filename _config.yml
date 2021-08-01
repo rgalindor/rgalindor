@@ -1,6 +1,12 @@
 theme: jekyll-theme-slate
-title: rgalindor
-description: [Resources hub site]
+title: "rgalindor"
+author: "Roberto Galindo Ramírez"
+description: "Resources hub site"
+email: "rgalindo.biocomputo@gmail.com"
 markdown: kramdown
 plugins:
   - jemoji
+  - jekyll-feed
+  - jekyl-sitemap
+rss: rss
+
