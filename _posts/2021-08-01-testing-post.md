@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: post
 author: rgalindor
 title: Testing blog post
 excerpt: Check out my bolg post
