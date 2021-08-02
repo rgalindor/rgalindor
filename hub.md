@@ -27,7 +27,7 @@ And how an equation is rendered:
 \[\frac{x}{y}\]
 
 
-$$\delta$$
+$$E=mc^{2}$$
 
 
 $\delta$
