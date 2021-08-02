@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # [Roberto Galindo Ramírez](https://rgalindor.github.io/)
 
 _Senior Bioinformatician and Data Scientist_ 
