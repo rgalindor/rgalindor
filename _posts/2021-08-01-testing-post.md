@@ -1,8 +1,10 @@
 ---
-layout: blog-post
+layout: post
 author: rgalindor
 title: Testing blog post
+subtitle: stuff
 excerpt: Check out my bolg post
+background: '/img/posts/01.jpg'
 ---
 
 # Testing blog post

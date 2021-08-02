@@ -6,6 +6,6 @@
 - Tutorials
   - [Image training TensorFlowJS](https://rgalindor.github.io/transferencia-de-conocimiento)
 - Academia
-- [Blog](./archive)
+- [Blog](./posts/)
 
-Visit my [BIO](./)
+Visit my [BIO](https://rgalindor.github.io)
