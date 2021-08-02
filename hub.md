@@ -8,4 +8,4 @@
 - Academia
 - [Blog](./posts/)
 
-Visit my [BIO](https://rgalindor.github.io)
+Visit my [Bio](https://rgalindor.github.io)
