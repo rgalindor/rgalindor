@@ -3,7 +3,7 @@ layout: post
 author: rgalindor
 title: Testing blog post
 subtitle: Some stuff to test
-excerpt: Check out my bolg post
+excerpt: Check out the first blog post
 background: '/img/posts/02.jpg'
 comments: true
 usemathjax: true
@@ -16,18 +16,3 @@ This is a post that has as a purpose to test whether jekyll basics is working su
 In the other hand, I would likely start to post things like a parrot. Just to practice my writing skills.
 
 También sería bueno escribir en español, pero de eso me encargaré después.
-
-Now you can add code:
-
-```bash
-ls -lth /path/to/folder
-```
-
-Tables:
-
-| Mathjax | Emojis | Code |
-|--|--|--|
-| $$E=mc^{2}$$ | :exploding_head: | `R` |
-
-Setting up things here could be easier.
-
