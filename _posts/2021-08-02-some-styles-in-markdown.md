@@ -9,7 +9,7 @@ comments: true
 usemathjax: true
 ---
 
-# Some styles in mardown
+# Writing beautiful (at least to the sight)
 
 Create web content was a serious challenge 10 years ago. Now you only need some knowledge of [github](https://github.com), a few hours of Jekyll configuration, and that is it! Of course, you also need to use markdown, but it is pretty easy.
 
@@ -21,11 +21,11 @@ In markdown you can create simple text, _italic text_, **bold text** and even **
 
  - Use `_italic text_` to create _italic_
  - Use `**bold text**` to create **bold**
-    - You can combine _italic_ and **bold** ``**_italic-bold text_**` to create ***italic-bold*** 
+    - You can combine _italic_ and **bold** `**_italic-bold text_**` to create ***italic-bold*** 
 
 Also you just see how to create a list using `-` in the code. 
 
-Speaking of code, I just used `\`` to create words intended to mean code words, but you can even create whole blocks of code in this way:
+Speaking of code, I just used "`" to create words intended to mean code words, but you can even create whole blocks of code in this way:
 
 ```bash
 pwd
@@ -43,7 +43,7 @@ So reviewing stuff that we can create very easy:
 
 So, having text is very important, however there are other types of structures that can comunicate more effective messages that are usually complex. For example, you can make a [link](https://github.com/rgalindor) very easy: `[words displayed](url)`. And if such pointed resource is an image:
 
-![alt text](https://rgalindor.github.io/img/posts/01.jpg)
+![alt text](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg)
 
 Another common structure that can be implemented very easy are tables:
 
