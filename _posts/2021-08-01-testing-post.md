@@ -2,9 +2,11 @@
 layout: post
 author: rgalindor
 title: Testing blog post
-subtitle: stuff
+subtitle: Some stuff to test
 excerpt: Check out my bolg post
 background: '/img/posts/01.jpg'
+comments: true
+usemathjax: true
 ---
 
 # Testing blog post
@@ -15,4 +17,16 @@ In the other hand, I would likely start to post things like a parrot. Just to pr
 
 También sería bueno escribir en español, pero de eso me encargaré después.
 
-Saludos
+Now you can add code:
+
+```bash
+ls -lth /path/to/folder
+```
+
+Tables:
+
+| Mathjax | Emojis |
+| $$E=mc^{2}$$ | :exploding_head: |
+
+Setting up things here could be easier.
+
