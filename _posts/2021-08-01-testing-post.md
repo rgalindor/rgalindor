@@ -4,7 +4,7 @@ author: rgalindor
 title: Testing blog post
 subtitle: Some stuff to test
 excerpt: Check out my bolg post
-background: '/img/posts/01.jpg'
+background: '/img/posts/02.jpg'
 comments: true
 usemathjax: true
 ---
@@ -25,8 +25,9 @@ ls -lth /path/to/folder
 
 Tables:
 
-| Mathjax | Emojis |
-| $$E=mc^{2}$$ | :exploding_head: |
+| Mathjax | Emojis | Code |
+|--|--|--|
+| $$E=mc^{2}$$ | :exploding_head: | `R` |
 
 Setting up things here could be easier.
 
