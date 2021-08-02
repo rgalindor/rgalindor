@@ -22,6 +22,12 @@ ls -ltrh /path/to/folder/
 And how an equation is rendered:
 
 \\[\frac{x}{y}\\]
+
+
 \[\frac{x}{y}\]
+
+
 $$\delta$$
+
+
 $\delta$
