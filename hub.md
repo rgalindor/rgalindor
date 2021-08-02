@@ -24,10 +24,13 @@ And how an equation is rendered:
 \\[\frac{x}{y}\\]
 
 
-\[\frac{x}{y}\]
-
-
 $$E=mc^{2}$$
 
+> This is a cite text
 
-$\delta$
+In the text, this is how _italic text_ appear, in contrast to **bold text** or  **_extra highlight_**.
+
+| Spanish | English |
+|--|--|
+| Esto se ve bien | This looks OK |
+| $$\delta$$ | :+1: |
