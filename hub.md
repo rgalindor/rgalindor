@@ -28,9 +28,3 @@ $$E=mc^{2}$$
 
 > This is a cite text
 
-In the text, this is how _italic text_ appear, in contrast to **bold text** or  **_extra highlight_**.
-
-| Spanish | English |
-|--|--|
-| Esto se ve bien | This looks OK |
-| $$\delta$$ | :+1: |
