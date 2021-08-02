@@ -9,3 +9,14 @@
 - [Blog](./posts/)
 
 Visit my [Bio](https://rgalindor.github.io)
+
+How the code is seen in the site:
+
+```bash
+ls -ltrh /path/to/folder/
+```
+
+And how an equation is rendered:
+
+\[\frac{x}{y}\]
+$$\delta$$

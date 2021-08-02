@@ -25,9 +25,3 @@ In the meanwhile you can take a brief tour by the following projects:
 
 Visit my [Bio](https://rgalindor.github.io/about)
 
-```bash
-ls
-```
-
-
-
