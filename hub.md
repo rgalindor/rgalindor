@@ -1,7 +1,12 @@
 ---
 usemathjax: true
+layout: page
+title: Projects
+description: Hub of resources
+background: '/img/posts/05.jpg'
 ---
-# Hub of resources
+
+## Resources
 
 - [Hobbies](./#)
   - [Football analysis](https://rgalindor.github.io/football-international/)
@@ -12,6 +17,8 @@ usemathjax: true
 - [Blog](./posts/)
 
 Visit my [Bio](https://rgalindor.github.io)
+
+## Misc
 
 How the code is seen in the site:
 
