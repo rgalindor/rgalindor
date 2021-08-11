@@ -17,14 +17,14 @@ So, people faced the same annoying dependencies errors all over the developer co
 
 Some `python` communities were also creating different ways to create _containers_. Eventually `conda` [project](https://docs.conda.io/) emerges as a _package manager_ that is also a _environment manager_. So now you can install, run and update software within an environment which is a _container like_ space, and it does not conflict with any software outside itself. That is tremendously useful, the days when you need to use `alternatives` are gone. 
 
-Using conda is as simple as:
+Using conda is as simple as creating and activating an environment:
 
 ```
 conda create --name my_env
 conda activate my_env
 ```
 
-And that is it! Now you have an environment isolated from the outside, you can break stuff there and there is no problem to the outside because you just need to type
+And that is it! Now you have an environment isolated from the outside. You can break stuff inside and there is no problem to the outside because you just need to type:
 
 ```
 conda deactivate
