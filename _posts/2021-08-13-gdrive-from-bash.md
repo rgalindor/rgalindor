@@ -24,6 +24,7 @@ Maybe you are aware that on mobile devices you can access files through **mobile
 | Personal computer | | Web app |
 | Linux server | | Command-line utility |
 
+
 ## Install `gdrive`
 
 This utility can be installed by cloning the [GitHub](https://github.com) repo, then compiling it, and so on. However, the simplest way to install it is through a `conda` installation:
@@ -55,6 +56,8 @@ rm ~/.gdrive/*
 ```
 
 Otherwise, you have the access open to `list`, `delete`, `download`, `upload`, files within your Google Drive Account.
+
+## Sync files to your server
 
 You can share files with people, that is so cool. So maybe you have a _"Shared with me"_ folder that is not visible with a simple `gdrive list`. To have access to such folder, you can perform the following:
 
