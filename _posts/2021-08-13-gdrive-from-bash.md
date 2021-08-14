@@ -18,11 +18,11 @@ You need only two things to share _big files_:
 
 Maybe you are aware that on mobile devices you can access files through **mobile apps**. So it is too in a **Linux** server without a graphical interface at all. There is a [`gdrive`](https://github.com/prasmussen/gdrive) command-line utility that allows you to interact with Google Drive. This is especially useful when you connect to remote servers through `ssh` and you have no _graphical interface_ but your _command line_.
 
-| Device | Best utility |
-|--|--|
-| Mobile device | App |
-| Personal computer | Web app |
-| Linux server | Command-line utility |
+| Device | | Best utility |
+|--|--|--|
+| Mobile device | |App |
+| Personal computer | | Web app |
+| Linux server | | Command-line utility |
 
 ## Install `gdrive`
 
@@ -46,7 +46,7 @@ conda activate gdrive
 gdrive list
 ```
 
-Then you need to authenticate, to do this you need to copy the **url** and paste it in the _url box_ within your preferred (and local) web browser. Such _link_ gives you to an authenticate landing page, if you successfully authenticate to your account you will receive a passphrase that you need to _ copy/paste_ into the prompt from your command line. Finally, the utility provides you with a list of files in your _"root"_ path in Google Drive. 
+Then you need to authenticate, to do this you need to copy the **url** and paste it in the _url box_ within your preferred (and local) web browser. Such _link_ gives you to an authenticate landing page, if you successfully authenticate to your account you will receive a passphrase that you need to _copy/paste_ into the prompt from your command line. Finally, the utility provides you with a list of files in your _"root"_ path in Google Drive. 
 
 When you do this, `gdrive` utility creates _auth tokens_ within your `~/.gdrive/` folder, such files allow the utility to keep logged in and sync your account. So, if you want to perform any other operation you do not need to authenticate again. That is why whether you use a shared server you must clean your _auth tokens_ to avoid security issues:
 
@@ -56,7 +56,7 @@ rm ~/.gdrive/*
 
 Otherwise, you have the access open to `list`, `delete`, `download`, `upload`, files within your Google Drive Account.
 
-A very cool thing you can perform is share files with people. So maybe you have a `Shared with me` folder that is not visible with a simple `gdrive list`. To have access to such folder, you can do the following:
+You can share files with people, that is so cool. So maybe you have a _"Shared with me"_ folder that is not visible with a simple `gdrive list`. To have access to such folder, you can perform the following:
 
 ```bash
 gdrive list --query "sharedWithMe"
