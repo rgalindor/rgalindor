@@ -11,7 +11,7 @@ usemathjax: true
 
 So, do you think that [Google Drive](https://www.google.com/intl/en/drive/) is a tool to share only `.docx`, `.xlsx`, and `.pptx` files? Well, yes, but it allows you to share even files with a big volume across different devices. I used to believe that one limitation for it is the need for a web browser in any device, but I was so wrong.
 
-You need only two things to share _big files_:
+You only need two things to share _big files_:
 
 1. A [google account](https://accounts.google.com/).
 2. An internet conection.
