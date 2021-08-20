@@ -91,4 +91,4 @@ gdrive download 0B3X9GlR6EmbnbEpXdlhza25zT1U
 
 And this is how you can transfer somehow big files to your production server!
 
-> Photo by Sora Shimazaki from Pexels
+> [Photo](https://www.pexels.com/photo/crop-faceless-developer-working-on-software-code-on-laptop-5926382/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Sora Shimazaki from Pexels
