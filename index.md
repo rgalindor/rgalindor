@@ -20,7 +20,8 @@ In the meanwhile you can take a brief tour by the following projects:
   - [Image training TensorFlowJS](https://rgalindor.github.io/transferencia-de-conocimiento)
 
 - Academia
-  - TBD
+  - [Frequency of allele variations in the CFTR gene in a Mexican population](https://doi.org/10.1186/s12920-021-01111-w)
+
 - [Blog](./posts/)
 
 Visit my [Bio](https://rgalindor.github.io/about)
