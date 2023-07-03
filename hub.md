@@ -14,6 +14,12 @@ background: '/img/posts/05.jpg'
 - Tutorials
   - [Image training TensorFlowJS](https://rgalindor.github.io/transferencia-de-conocimiento)
 - Academia
+  - [Frequency of allele variations in the CFTR gene in a Mexican population](https://doi.org/10.1186/s12920-021-01111-w)
+- Open Source
+  - [Data science cookiecutter](https://github.com/rgalindor/data-science-cookiecutter) try it out!:
+```bash
+cookiecutter https://github.com/rgalindor/data-science-cookiecutter --checkout main
+``` 
 - [Blog](./posts/)
 
 Visit my [Bio](https://rgalindor.github.io)
