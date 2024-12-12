@@ -26,7 +26,7 @@ In the indexing phase of a RAG pipeline, the primary goal is to construct a cont
 
 To achieve this, a common approach is to use **embeddings**, which are vectorized representations of the meaning or semantics of a piece of text. Embeddings allow us to capture the essence of words, sentences, or entire documents in numerical form, enabling machines to process and compare them mathematically. These vectors reside in a high-dimensional space where similar meanings are mapped closer together, facilitating tasks like similarity searches.
 
-![embedding](../../../images/clusters-embeddings.webp)
+![embedding](../../../images/clusters_embeddings.webp)
 
 The transformation of text into embeddings is a well-established NLP technique. It relies on an embedding model, a specialized neural network designed to encode text into its corresponding vector representation. These models are often pre-trained on vast amounts of data and optimized to preserve semantic relationships, making them an essential component for indexing in modern RAG pipelines.
 
